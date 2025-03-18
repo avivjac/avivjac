@@ -9,4 +9,5 @@ I thrive under pressure, learn quickly, and enjoy tackling complex challenges. I
 📩 **Email:** avivj2012@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/aviv-jacubovski](https://www.linkedin.com/in/aviv-jacubovski/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sideffect263&show_icons=true&locale=en&layout=compact" alt="sideffect263" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=avivjac&show_icons=true&locale=en&layout=compact" alt="avivjac" /></p>
+

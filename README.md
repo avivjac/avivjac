@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aviv Jacubovski
 
-I am a dedicated second-year computer science student at Ben-Gurion University with a GPA of 82 and a strong passion for problem-solving and technology. I am proficient in Java, C#, C++, Python, and SQL, combining academic excellence with hands-on experience in software development.
+I am a dedicated second-year computer science student at Ben-Gurion University with a GPA of 82 and a strong passion for problem-solving and technology. I am proficient in Java, C#, C++, Python, SQL, TypeScript and JavaScript, combining academic excellence with hands-on experience in software development.
 
 My background includes serving as a combat medic in an elite IDF intelligence unit from 2019 to 2022, where I managed operational readiness and trained recruits, earning a certificate of excellence. Prior to that, I was a competitive judo athlete, ranking 7th in Israel, and I also coached young trainees.
 
